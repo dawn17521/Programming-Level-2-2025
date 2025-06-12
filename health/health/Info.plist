@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHealthShareUsageDescription</key>
+	<string>&quot;This app uses Health data to track fitness progress.&quot;</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>&quot;This app updates your Health data when you log workouts.&quot;</string>
+</dict>
+</plist>
